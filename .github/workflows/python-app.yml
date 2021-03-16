@@ -25,4 +25,4 @@ jobs:
     - name: Install Tweepy                              
       run: pip install tweepy
     - name: run application
-      run: python my_script.py
+      run: python tweet.py
