@@ -24,3 +24,5 @@ jobs:
       run: echo hi!
     - name: Install Tweepy                              
       run: pip install tweepy
+    - name: run application
+      run: python my_script.py
